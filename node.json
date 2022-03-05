@@ -1,0 +1,8 @@
+{
+    "name": "blockchain python pos",
+    "version": "1.0.1",
+    "config": {
+        "flask_port": 5000,
+        "private_key_path": "keys/genesis_private_key.pem"
+    }
+}
