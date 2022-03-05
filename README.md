@@ -8,6 +8,8 @@ If you prefer, you can create a Python virtual environment to run the project.
 
 ## Installing
 
+Some packages are needed to run the project, install using the python Pip package manager
+
 ``` bash
 pip install pycryptodome p2pnetwork Flask flask-classful waitress requests jsonify jsonpickle
 ```
